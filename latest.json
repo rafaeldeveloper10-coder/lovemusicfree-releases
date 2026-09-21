@@ -1,7 +1,7 @@
 {
-  "build": 18,
+  "build": 19,
   "version": "1.0.0",
-  "notes": "Playlists locales, descargas offline y reparación del crash al buscar.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-18/app-release.apk",
+  "notes": "Notificaciones push, campanita con historial y badge en el ícono.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-19/app-release.apk",
   "testflight_url": "itms-beta://"
 }
