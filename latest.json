@@ -1,7 +1,7 @@
 {
-  "build": 16,
+  "build": 17,
   "version": "1.0.0",
-  "notes": "Chequeo de actualizaciones y transmisión a Chromecast desde la pantalla de video.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-16/app-release.apk",
+  "notes": "Icono nuevo de la app.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-17/app-release.apk",
   "testflight_url": "itms-beta://"
 }
