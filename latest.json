@@ -1,7 +1,7 @@
 {
-  "build": 20,
+  "build": 22,
   "version": "1.0.0",
-  "notes": "Animación de descarga con arco de degradé y destellos de colores al dar 'me gusta'.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-20/app-release.apk",
+  "notes": "Reparado: el ícono de descarga que se quedaba igual siempre. Avisa si una descarga falla.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-22/app-release.apk",
   "testflight_url": "itms-beta://"
 }
