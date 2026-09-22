@@ -1,7 +1,7 @@
 {
-  "build": 24,
+  "build": 25,
   "version": "1.0.0",
-  "notes": "Portada real en el reproductor de audio, botón de anterior, y relacionadas. Arreglado: sin código activo, ya no se podía reanudar la música desde los controles del sistema con la app minimizada.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-24/app-release.apk",
+  "notes": "Portada real en playlists. El código de activación ahora queda atado al dispositivo que lo usa primero.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-25/app-release.apk",
   "testflight_url": "itms-beta://"
 }
