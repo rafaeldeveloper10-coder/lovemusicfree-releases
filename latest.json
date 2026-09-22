@@ -1,7 +1,7 @@
 {
-  "build": 19,
+  "build": 20,
   "version": "1.0.0",
-  "notes": "Notificaciones push, campanita con historial y badge en el ícono.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-19/app-release.apk",
+  "notes": "Animación de descarga con arco de degradé y destellos de colores al dar 'me gusta'.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-20/app-release.apk",
   "testflight_url": "itms-beta://"
 }
