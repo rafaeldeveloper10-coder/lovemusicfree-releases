@@ -1,7 +1,7 @@
 {
-  "build": 29,
+  "build": 30,
   "version": "1.0.0",
-  "notes": "Textos de la app pasados a 'tú' para sonar natural en México/Latam. Nuevo subtítulo de Inicio.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-29/app-release.apk",
+  "notes": "Nueva intro de bienvenida animada, y prueba gratis de 7 días con todo desbloqueado.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-30/app-release.apk",
   "testflight_url": "itms-beta://"
 }
