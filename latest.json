@@ -1,7 +1,7 @@
 {
-  "build": 26,
+  "build": 27,
   "version": "1.0.0",
-  "notes": "Build de diagnóstico para el bug de activación de códigos.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-26/app-release.apk",
+  "notes": "Nueva pantalla de apertura animada. Portada real en el detalle de playlist. Botón para pedir el código por WhatsApp.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-27/app-release.apk",
   "testflight_url": "itms-beta://"
 }
