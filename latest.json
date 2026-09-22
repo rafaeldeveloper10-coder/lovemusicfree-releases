@@ -1,7 +1,7 @@
 {
-  "build": 22,
+  "build": 23,
   "version": "1.0.0",
-  "notes": "Reparado: el ícono de descarga que se quedaba igual siempre. Avisa si una descarga falla.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-22/app-release.apk",
+  "notes": "Arreglado: las descargas que siempre fallaban. Nuevo: código de activación para desbloquear descargas, playlists sin límite, Chromecast y reproducción en segundo plano.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-23/app-release.apk",
   "testflight_url": "itms-beta://"
 }
