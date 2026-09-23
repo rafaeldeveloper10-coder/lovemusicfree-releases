@@ -1,7 +1,7 @@
 {
-  "build": 31,
+  "build": 32,
   "version": "1.0.0",
-  "notes": "IMPORTANTE: si ya tenías la app instalada, desinstalala antes de instalar esta versión (cambió la firma, es la única vez que hace falta). Firma de Android propia y reglas de Firestore más seguras.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-31/app-release.apk",
+  "notes": "Ahora se pueden mandar notificaciones push de verdad desde el dashboard.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-32/app-release.apk",
   "testflight_url": "itms-beta://"
 }
