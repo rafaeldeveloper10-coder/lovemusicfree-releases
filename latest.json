@@ -1,7 +1,7 @@
 {
-  "build": 33,
+  "build": 38,
   "version": "1.0.0",
-  "notes": "Arreglo del bug de notificaciones que no llegaban en iOS (timing del token de APNs).",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-33/app-release.apk",
+  "notes": "Compartir canciones descargadas como audio (WhatsApp/etc). Arregla los relacionados vacios y el no poder avanzar/retroceder cancion. Limpia descargas fantasma que rompian el compartir.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-38/app-release.apk",
   "testflight_url": "itms-beta://"
 }
