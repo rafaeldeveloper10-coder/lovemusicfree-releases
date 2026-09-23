@@ -1,7 +1,7 @@
 {
-  "build": 43,
+  "build": 44,
   "version": "1.0.0",
-  "notes": "Arregla que la app se quedara pegada en la pantalla de carga sin abrir en algunos telefonos (se le puso limite de tiempo al arranque).",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-43/app-release.apk",
+  "notes": "Arregla que el nombre de la app se viera tapado por el contador de prueba/perfil arriba, y se simplifico la pantalla de Perfil.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-44/app-release.apk",
   "testflight_url": "itms-beta://"
 }
