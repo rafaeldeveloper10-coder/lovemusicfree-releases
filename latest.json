@@ -1,7 +1,7 @@
 {
-  "build": 40,
+  "build": 41,
   "version": "1.0.0",
-  "notes": "Boton de siguiente cancion en el reproductor mini, reproduccion aleatoria en playlists y generos, y encabezados de Inicio mas grandes y con mas personalidad.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-40/app-release.apk",
+  "notes": "Aviso fijo de sin conexion en toda la app, mensajes claros en vez de errores tecnicos, y las canciones descargadas ahora guardan tambien su portada para verse bien sin internet.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-41/app-release.apk",
   "testflight_url": "itms-beta://"
 }
