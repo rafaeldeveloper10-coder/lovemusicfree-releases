@@ -1,7 +1,7 @@
 {
-  "build": 38,
+  "build": 39,
   "version": "1.0.0",
-  "notes": "Compartir canciones descargadas como audio (WhatsApp/etc). Arregla los relacionados vacios y el no poder avanzar/retroceder cancion. Limpia descargas fantasma que rompian el compartir.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-38/app-release.apk",
+  "notes": "Nueva pantalla de Inicio: explora por genero (Corridos, Regional Mexicano, Reggaeton, Banda, Pop, Cumbia, Rock, Baladas), saludo segun la hora, y las listas ahora son tarjetas como en Spotify.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-39/app-release.apk",
   "testflight_url": "itms-beta://"
 }
