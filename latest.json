@@ -1,7 +1,7 @@
 {
-  "build": 39,
+  "build": 40,
   "version": "1.0.0",
-  "notes": "Nueva pantalla de Inicio: explora por genero (Corridos, Regional Mexicano, Reggaeton, Banda, Pop, Cumbia, Rock, Baladas), saludo segun la hora, y las listas ahora son tarjetas como en Spotify.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-39/app-release.apk",
+  "notes": "Boton de siguiente cancion en el reproductor mini, reproduccion aleatoria en playlists y generos, y encabezados de Inicio mas grandes y con mas personalidad.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-40/app-release.apk",
   "testflight_url": "itms-beta://"
 }
