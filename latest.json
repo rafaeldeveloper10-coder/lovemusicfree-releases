@@ -1,7 +1,7 @@
 {
-  "build": 47,
+  "build": 48,
   "version": "1.0.0",
-  "notes": "Mas sugerencias: si la cancion no tiene suficientes relacionados sueltos (algunas mandan puros mixes largos), se completa con mas del mismo artista. Tambien se arreglo el diagnostico de descargas para que de datos reales la proxima vez.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-47/app-release.apk",
+  "notes": "El icono de agregar a playlist en el reproductor ahora guarda toda la cola de canciones (no solo la que suena) cuando hay varias encoladas.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-48/app-release.apk",
   "testflight_url": "itms-beta://"
 }
