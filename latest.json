@@ -1,7 +1,7 @@
 {
-  "build": 45,
+  "build": 46,
   "version": "1.0.0",
-  "notes": "Diagnostico temporal para investigar por que se pierden las descargas entre versiones.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-45/app-release.apk",
+  "notes": "La app ahora abre todo como audio por defecto (ver video queda como opcion aparte), y las sugerencias/busquedas ya no mezclan mixes de una o dos horas con las canciones sueltas.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-46/app-release.apk",
   "testflight_url": "itms-beta://"
 }
