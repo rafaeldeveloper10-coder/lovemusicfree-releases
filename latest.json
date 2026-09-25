@@ -1,7 +1,7 @@
 {
-  "build": 50,
+  "build": 51,
   "version": "1.0.0",
-  "notes": "Las descargas que se pierden (por ejemplo tras una actualizacion en iOS) ahora se vuelven a descargar solas sin que tengas que hacer nada. Tambien se corrigio que Inicio a veces se quedara sin sugerencias por pedir demasiado a YouTube de golpe.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-50/app-release.apk",
+  "notes": "Nueva seccion 'Lo nuevo' en Inicio con lo mas reciente de tus artistas mas escuchados. Tambien se corrigio un problema donde la pagina de un artista podia verse vacia por un cambio de formato de YouTube.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-51/app-release.apk",
   "testflight_url": "itms-beta://"
 }
