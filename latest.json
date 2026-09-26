@@ -1,7 +1,7 @@
 {
-  "build": 51,
+  "build": 52,
   "version": "1.0.0",
-  "notes": "Nueva seccion 'Lo nuevo' en Inicio con lo mas reciente de tus artistas mas escuchados. Tambien se corrigio un problema donde la pagina de un artista podia verse vacia por un cambio de formato de YouTube.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-51/app-release.apk",
+  "notes": "Mejoras de rendimiento y estabilidad.",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-52/app-release.apk",
   "testflight_url": "itms-beta://"
 }
