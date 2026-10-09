@@ -1,8 +1,8 @@
 {
-  "build": 90,
+  "build": 94,
   "version": "1.0.0",
   "notes": "Mejoras de rendimiento y estabilidad.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-90/LoveMusicFree.apk",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-94/LoveMusicFree.apk",
   "testflight_url": "https://testflight.apple.com/join/5QxesAWd",
   "windows_build": 79,
   "windows_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/windows-v1.0.0-79/LoveMusicFree-Setup.exe"
