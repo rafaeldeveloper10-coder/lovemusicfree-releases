@@ -1,9 +1,9 @@
 {
-  "build": 141,
+  "build": 143,
   "version": "1.4.0",
   "notes": "Mejoras de rendimiento y estabilidad.",
-  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-141/LoveMusicFree.apk",
+  "apk_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/v1.0.0-143/LoveMusicFree.apk",
   "testflight_url": "https://testflight.apple.com/join/5QxesAWd",
-  "windows_build": 141,
-  "windows_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/windows-v1.0.0-141/LoveMusicFree-Setup.exe"
+  "windows_build": 143,
+  "windows_url": "https://github.com/rafaeldeveloper10-coder/lovemusicfree-releases/releases/download/windows-v1.0.0-143/LoveMusicFree-Setup.exe"
 }
